@@ -7,7 +7,7 @@
 </div>
 </h1>
 
-<h2 align="center">🕸️ Programming Languages, Frameworks & Tools
+<h2 align="center">Programming Languages, Frameworks & Tools
   <br>
    <br>
 <p align="center">
@@ -27,7 +27,7 @@
   </p>
 </h2>
 
-<h2  align="center"> 🕸️ Featured Repositories
+<h2  align="center"> Featured Repositories
 <br>
 <br>
 <p  align="center"> 
