@@ -1,16 +1,16 @@
-<h1 align="center">
- Hi there, I'm Mohammad Reza
-  <div align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=B5B5B5FF&center=true&vCenter=true&width=650&lines=Penetration+Tester;Bug+Bounty+Hunter;Backend+%26+Security+Tool+Developer;" alt="Typing SVG" />
-  </a>
+<h1>
+    Hi there, I'm Spix0r 🕷
+    <div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=B5B5B5FF&width=435&lines=Penetration+Tester;Bug+Bounty+Hunter;Backend+%26+Security+Tool+Developer;" alt="Typing SVG" /></a>
 </div>
 </h1>
 
-<h2 align="center">Programming Languages, Frameworks & Tools
+<img src="https://raw.githubusercontent.com/Spix0r/Spix0r/refs/heads/main/final.png" alt="header"/>
+
+<h2 align="left">🕸 Programming Languages, Frameworks & Tools
   <br>
    <br>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go – High-performance security tools" width="48" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python – Security scripting & automation" width="48" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript – Full‑stack development" width="48" />
@@ -27,27 +27,22 @@
   </p>
 </h2>
 
-<h2  align="center"> Featured Repositories
+<h2  align="left">🕸 Featured Repositories
 <br>
 <br>
-<p  align="center"> 
+<p  align="left"> 
   <a href="https://github.com/Spix0r/fback"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=fback&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
   <a href="https://github.com/Spix0r/writeup-miner"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=writeup-miner&theme=dark&title_color=EAEAEAFF&text_color=cccccc&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
 </p>
 
-<p  align="center"> 
+<p  align="left"> 
   <a href="https://github.com/Spix0r/robofinder"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=robofinder&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
   <a href="https://github.com/Spix0r/cloudrecon"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=cloudrecon&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
 </p>
 
-<p  align="center"> 
+<p  align="left"> 
   <a href="https://github.com/StackWard/FunPark"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StackWard&repo=FunPark&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
   <a href="https://github.com/Spix0r/Nuclei-Community-Templates"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=django-rce-exploit&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
 </p>
 </h2>
-  <div align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B5B5B5FF&center=true&vCenter=true&width=650&lines=The%20best%20defense%20is%20a%20good%20offense;%28only%20when%20it%27s%20ethical%21%29;" alt="Typing SVG" />
-  </a>
-</div>
 
