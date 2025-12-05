@@ -31,18 +31,18 @@
 <br>
 <br>
 <p  align="center"> 
-  <a href="https://github.com/Spix0r/fback"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=fback&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
-  <a href="https://github.com/Spix0r/writeup-miner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=writeup-miner&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/fback"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=fback&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/writeup-miner"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=writeup-miner&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
 </p>
 
 <p  align="center"> 
-  <a href="https://github.com/Spix0r/robofinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=robofinder&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
-  <a href="https://github.com/Spix0r/cloudrecon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=cloudrecon&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/robofinder"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=robofinder&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/cloudrecon"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=cloudrecon&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
 </p>
 
 <p  align="center"> 
-  <a href="https://github.com/StackWard/FunPark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StackWard&repo=FunPark&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
-  <a href="https://github.com/Spix0r/Nuclei-Community-Templates"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=django-rce-exploit&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/StackWard/FunPark"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StackWard&repo=FunPark&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/Nuclei-Community-Templates"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=django-rce-exploit&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
 </p>
 </h2>
   <div align="center">
