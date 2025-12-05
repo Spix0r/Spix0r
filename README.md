@@ -1,5 +1,5 @@
 <h1>
-    Hi there, I'm Spix0r 🕷
+    Hi there, I'm Mohammadreza
     <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=B5B5B5FF&width=435&lines=Penetration+Tester;Bug+Bounty+Hunter;Backend+%26+Security+Tool+Developer;" alt="Typing SVG" /></a>
 </div>
@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/Spix0r/Spix0r/refs/heads/main/final.png" alt="header"/>
 
-## 🕸 Programming Languages, Frameworks & Tools
+## 🕸 Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go – High-performance security tools" width="48" />
@@ -25,14 +25,14 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git – Version control" width="48" />
   </p>
 
-## 🕸 Featured Repositories</h2>
+## 🕸 Top Repositories</h2>
 
 <p  align="left"> 
-  <a href="https://github.com/Spix0r/fback"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=fback&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/Spix0r/writeup-miner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=writeup-miner&theme=dark&title_color=EAEAEAFF&text_color=cccccc&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/Spix0r/robofinder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=robofinder&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/Spix0r/cloudrecon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=cloudrecon&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/StackWard/FunPark"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StackWard&repo=FunPark&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/Spix0r/Nuclei-Community-Templates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=django-rce-exploit&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
+  <a href="https://github.com/Spix0r/fback"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=fback&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
+  <a href="https://github.com/Spix0r/writeup-miner"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=writeup-miner&theme=dark&title_color=EAEAEAFF&text_color=cccccc&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
+  <a href="https://github.com/Spix0r/robofinder"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=robofinder&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
+  <a href="https://github.com/Spix0r/cloudrecon"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=cloudrecon&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
+  <a href="https://github.com/StackWard/FunPark"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StackWard&repo=FunPark&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
+  <a href="https://github.com/Spix0r/Nuclei-Community-Templates"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=django-rce-exploit&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0C0C0CFF&show_icons=false&hide_border=true" /></a>
 </p>
 
