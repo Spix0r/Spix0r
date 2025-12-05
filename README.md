@@ -1,10 +1,3 @@
-<h1>
-    Hi there, I'm Mohammadreza
-    <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=B5B5B5FF&width=435&lines=Penetration+Tester;Bug+Bounty+Hunter;Backend+%26+Security+Tool+Developer;" alt="Typing SVG" /></a>
-</div>
-</h1>
-
 <img src="https://raw.githubusercontent.com/Spix0r/Spix0r/refs/heads/main/final.png" alt="header"/>
 
 ## 🕸 Skills
