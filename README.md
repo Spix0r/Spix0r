@@ -2,7 +2,7 @@
  Hi there, I'm Mohammad Reza
   <div align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&width=650&lines=Penetration+Tester;Bug+Bounty+Hunter;Backend+%26+Security+Tool+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=B5B5B5FF&center=true&vCenter=true&width=650&lines=Penetration+Tester;Bug+Bounty+Hunter;Backend+%26+Security+Tool+Developer;" alt="Typing SVG" />
   </a>
 </div>
 </h1>
@@ -31,23 +31,23 @@
 <br>
 <br>
 <p  align="center"> 
-  <a href="https://github.com/Spix0r/fback"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=fback&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
-  <a href="https://github.com/Spix0r/writeup-miner"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=writeup-miner&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/fback"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=fback&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/writeup-miner"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=writeup-miner&theme=dark&title_color=EAEAEAFF&text_color=cccccc&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
 </p>
 
 <p  align="center"> 
-  <a href="https://github.com/Spix0r/robofinder"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=robofinder&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
-  <a href="https://github.com/Spix0r/cloudrecon"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=cloudrecon&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/robofinder"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=robofinder&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/cloudrecon"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=cloudrecon&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
 </p>
 
 <p  align="center"> 
-  <a href="https://github.com/StackWard/FunPark"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StackWard&repo=FunPark&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
-  <a href="https://github.com/Spix0r/Nuclei-Community-Templates"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=django-rce-exploit&theme=dark&title_color=FF0000&text_color=cccccc&icon_color=FF0000&bg_color=0D1117" /></a>
+  <a href="https://github.com/StackWard/FunPark"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StackWard&repo=FunPark&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
+  <a href="https://github.com/Spix0r/Nuclei-Community-Templates"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=django-rce-exploit&theme=dark&title_color=EAEAEAFF&text_color=B5B5B5FF&icon_color=EAEAEAFF&bg_color=0D1117" /></a>
 </p>
 </h2>
   <div align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=The%20best%20defense%20is%20a%20good%20offense;%28only%20when%20it%27s%20ethical%21%29;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B5B5B5FF&center=true&vCenter=true&width=650&lines=The%20best%20defense%20is%20a%20good%20offense;%28only%20when%20it%27s%20ethical%21%29;" alt="Typing SVG" />
   </a>
 </div>
 
