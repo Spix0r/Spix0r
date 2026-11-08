@@ -18,14 +18,3 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git – Version control" width="48" />
   </p>
 
-## 🕸 Top Repositories
-
-<p  align="left"> 
-  <a href="https://github.com/Spix0r/robofinder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=robofinder&theme=dark&title_color=000000FF&text_color=000000FF&icon_color=000000FF&bg_color=CCCCCCFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/Spix0r/writeup-miner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=writeup-miner&theme=dark&title_color=000000FF&text_color=000000FF&icon_color=000000FF&bg_color=CCCCCCFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/Spix0r/fback"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=fback&theme=dark&title_color=000000FF&text_color=000000FF&icon_color=000000FF&bg_color=CCCCCCFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/Spix0r/cloudrecon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=cloudrecon&theme=dark&title_color=000000FF&text_color=000000FF&icon_color=000000FF&bg_color=CCCCCCFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/StackWard/FunPark"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StackWard&repo=FunPark&theme=dark&title_color=000000FF&text_color=000000FF&icon_color=000000FF&bg_color=CCCCCCFF&show_icons=false&hide_border=true" /></a>
-  <a href="https://github.com/Spix0r/Nuclei-Community-Templates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spix0r&repo=unhar&theme=dark&title_color=000000FF&text_color=000000FF&icon_color=000000FF&bg_color=CCCCCCFF&show_icons=false&hide_border=true" /></a>
-</p>
-
